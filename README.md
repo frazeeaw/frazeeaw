@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## I'm currently in CREA 330 with Professor Kyle Tower
 ## I'm currently leraning how to code
-How to reach me: frazeeaw@vcu.edu
-Fun fact: I love CS2
+## How to reach me: frazeeaw@vcu.edu
+## Fun fact: I love CS2
 
 <!--
 **frazeeaw/frazeeaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
