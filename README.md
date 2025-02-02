@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 ## I'm currently in CREA 330 with Professor Kyle Tower
 ## I'm currently leraning how to code
 ## How to reach me: frazeeaw@vcu.edu
